@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+building!+🚀)](https://git.io/typing-svg)
+
 <a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=clintinog&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
@@ -64,6 +66,9 @@
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=clintinog)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+
+</div>
 <h3>
     Frameworks
 </h3>
