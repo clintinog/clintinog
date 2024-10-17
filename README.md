@@ -62,6 +62,11 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=clintinog&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+<h3>
+    Frameworks
+</h3>
+
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/clintinog">
