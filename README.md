@@ -67,10 +67,10 @@ I'm a software developer with a passion for building innovative solutions to rea
 
 ### 🚀 Featured Projects
 
-1. **[SOS Cameroon](project-link)**: SOS by Caasitech is a comprehensive safety and emergency response application designed to enhance user safety by providing immediate assistance during emergencies. The app is tailored for users in Cameroon but can be utilized globally. It offers a range of features to ensure users can quickly alert their personal emergency network (PEN) and receive help when needed.
+1. **[SOS Cameroon](project-link)**: SOS 🆘 by Caasitech is a comprehensive safety and emergency response application designed to enhance user safety by providing immediate assistance during emergencies. The app is tailored for users in Cameroon but can be utilized globally. It offers a range of features to ensure users can quickly alert their personal emergency network (PEN) and receive help when needed.
 
-2. **[ClinExchange](project-link)**: A mobile application designed to facilitate group-based savings and lending, commonly known as *rotating savings and credit associations* (ROSCAs). The app enables groups of individuals to form savings pools where members contribute a fixed amount of money at regular intervals. One member of the group collects the total amount during each round, and this process continues until all members have had their turn to collect the funds. Once all members have received their share, a new cycle begins.
-3. **[Gym Master](project-link)**: To help gyms manage their members and streamline operations, Gym Master is a comprehensive gym management software designed to enhance efficiency and provide a seamless experience for both gym owners and members.
+2. **[ClinExchange](project-link)**: 💵 A mobile application designed to facilitate group-based savings and lending, commonly known as *rotating savings and credit associations* (ROSCAs). The app enables groups of individuals to form savings pools where members contribute a fixed amount of money at regular intervals. One member of the group collects the total amount during each round, and this process continues until all members have had their turn to collect the funds. Once all members have received their share, a new cycle begins.
+3. **[Gym Master](project-link)**: 🏋🏽‍♀️🏋🏽‍♀️ To help gyms manage their members and streamline operations, Gym Master is a comprehensive gym management software designed to enhance efficiency and provide a seamless experience for both gym owners and members.
 
 
 ### 🌱 I'm currently learning...
