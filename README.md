@@ -67,6 +67,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=clintinog)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🚀 Featured Projects
+
+1. **[Project Name](project-link)**: Brief description
+2. **[Project Name](project-link)**: Brief description
+3. **[Project Name](project-link)**: Brief description
+
 ---
 
 <h3 style="display: inline-block; margin-right: 20px;">Frameworks</h3>
