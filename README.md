@@ -55,12 +55,12 @@ I'm a software developer with a passion for building innovative solutions to rea
     </picture>
 </a>
 
-<a href="https://github.com/clintinog/github-readme-streak-stats">
+<!-- <a href="https://github.com/clintinog/github-readme-streak-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&hide_border=true&theme=dark&background=0e1116">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&hide_border=true">
     </picture>
-</a>
+</a> -->
 
 <a href="https://github.com/clintinog/github-readme-activity-graph">
     <picture>
