@@ -62,6 +62,8 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=clintinog&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3>
     Frameworks
 </h3>
