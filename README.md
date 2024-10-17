@@ -77,6 +77,21 @@ I'm a software developer with a passion for building innovative solutions to rea
 2. **[ClinExchange](project-link)**: description
 3. **[Gym Master](project-link)**: description
 
+### 📊 GitHub Stats
+
+<a href="https://github.com/clintinog/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clintinog&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/clintinog/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&theme=radical" />
+</a>
+
+### 🌱 I'm currently learning...
+
+- Pytorch
+- Tensorflow
+- Keras
+
 ---
 ### 🛠️ Technologies & Tools
 
