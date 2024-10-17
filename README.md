@@ -47,13 +47,21 @@ I'm a software developer with a passion for building innovative solutions to rea
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
+### 📊 GitHub Stats
 
 <a href="https://github.com/clintinog/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clintinog&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/clintinog/github-readme-streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&theme=radical" />
+</a>
+
+<!-- <a href="https://github.com/clintinog/github-readme-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=clintinog&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=clintinog&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
     </picture>
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/clintinog/github-readme-streak-stats">
     <picture>
@@ -77,14 +85,14 @@ I'm a software developer with a passion for building innovative solutions to rea
 2. **[ClinExchange](project-link)**: description
 3. **[Gym Master](project-link)**: description
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <a href="https://github.com/clintinog/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=clintinog&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/clintinog/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&theme=radical" />
-</a>
+</a> -->
 
 ### 🌱 I'm currently learning...
 
