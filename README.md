@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+building!+🚀)](https://git.io/typing-svg)
 
+## Hello, I'm [Caspa Clinton] 👨‍💻
+
+I'm a software developer with a passion for building innovative solutions to real-world problems. I have experience in web development, mobile app development, and machine learning.
+
 <a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=clintinog&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
@@ -69,11 +73,12 @@
 
 ### 🚀 Featured Projects
 
-1. **[Project Name](project-link)**: Brief description
-2. **[Project Name](project-link)**: Brief description
-3. **[Project Name](project-link)**: Brief description
+1. **[SOS By Caasitech](project-link)**: description
+2. **[ClinExchange](project-link)**: description
+3. **[Gym Master](project-link)**: description
 
 ---
+### 🛠️ Technologies & Tools
 
 <h3 style="display: inline-block; margin-right: 20px;">Frameworks</h3>
 
