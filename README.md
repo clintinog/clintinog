@@ -1,4 +1,4 @@
-<a href="https://github.com/clintinog/github-readme-stats">
+<a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=clintinog&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintinog&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
@@ -6,35 +6,35 @@
 </a>
 
 &nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
+<a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/dark/stackoverflow.png">
         <img src="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/light/stackoverflow.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/clintinog">
+<a href="https://www.linkedin.com/in/caspa-clinton-735a37209/" target_="blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/dark/linkedin.png">
         <img src="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/light/linkedin.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/clintinog">
+<a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/dark/facebook.png">
         <img src="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/light/facebook.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__clintinog__">
+<a href="https://x.com/CaspaClinton" target_="blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/dark/twitter.png">
         <img src="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/light/twitter.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@clintinog">
+<a href="">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/dark/youtube.png">
         <img src="https://raw.githubusercontent.com/clintinog/clintinog/main/imgs/social/light/youtube.png" width="42" height="42">
