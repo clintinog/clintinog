@@ -56,20 +56,6 @@ I'm a software developer with a passion for building innovative solutions to rea
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&theme=radical" />
 </a>
 
-<!-- <a href="https://github.com/clintinog/github-readme-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=clintinog&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=clintinog&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
-    </picture>
-</a> -->
-
-<!-- <a href="https://github.com/clintinog/github-readme-streak-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&hide_border=true&theme=dark&background=0e1116">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&hide_border=true">
-    </picture>
-</a> -->
-
 <a href="https://github.com/clintinog/github-readme-activity-graph">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=clintinog&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
@@ -81,18 +67,11 @@ I'm a software developer with a passion for building innovative solutions to rea
 
 ### 🚀 Featured Projects
 
-1. **[SOS By Caasitech](project-link)**: description
-2. **[ClinExchange](project-link)**: description
-3. **[Gym Master](project-link)**: description
+1. **[SOS Cameroon](project-link)**: SOS by Caasitech is a comprehensive safety and emergency response application designed to enhance user safety by providing immediate assistance during emergencies. The app is tailored for users in Cameroon but can be utilized globally. It offers a range of features to ensure users can quickly alert their personal emergency network (PEN) and receive help when needed.
 
-<!-- ### 📊 GitHub Stats
+2. **[ClinExchange](project-link)**: A mobile application designed to facilitate group-based savings and lending, commonly known as *rotating savings and credit associations* (ROSCAs). The app enables groups of individuals to form savings pools where members contribute a fixed amount of money at regular intervals. One member of the group collects the total amount during each round, and this process continues until all members have had their turn to collect the funds. Once all members have received their share, a new cycle begins.
+3. **[Gym Master](project-link)**: To help gyms manage their members and streamline operations, Gym Master is a comprehensive gym management software designed to enhance efficiency and provide a seamless experience for both gym owners and members.
 
-<a href="https://github.com/clintinog/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clintinog&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/clintinog/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clintinog&theme=radical" />
-</a> -->
 
 ### 🌱 I'm currently learning...
 
